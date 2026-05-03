@@ -51,4 +51,3 @@ To run all test suites, ensure your virtual environment is activated and simply 
 ```bash
 pytest
 ```
-```
